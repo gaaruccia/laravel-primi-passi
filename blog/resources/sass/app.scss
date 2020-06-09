@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#welcome{
+    color: white;
+    text-align: center;
+    padding-top: 20%;
+}
+@import "header.scss";
+@import "main.scss";
+@import "footer.scss";
